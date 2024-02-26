@@ -4,18 +4,19 @@ I'm a passionate MERN stack developer with a strong desire to create [Seamless a
 
 **Skills & Expertise:**
 
-* [HTML]             * [NodeJS]        
-* [CSS]              * [Express]
-* [JavaScript]       * [MongoDB] 
+* [HTML]                  
+* [CSS]              
+* [JavaScript]      
 * [React JS]
-
-
-
+* [NodeJS]  
+* [Express]
+* [MongoDB]
+  
 ## My expertise lies in:
 
 [Building user-friendly and scalable web applications] utilizing the power of MongoDB, Express.js, React.js, and Node.js.
 
- [Crafting dynamic and interactive user interfaces] through my solid understanding of React.js and related frameworks.
+[Crafting dynamic and interactive user interfaces] through my solid understanding of React.js and related frameworks.
  
 [Developing robust APIs] using Express.js, ensuring efficient data handling and communication.
 
