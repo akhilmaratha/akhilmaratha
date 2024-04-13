@@ -7,7 +7,7 @@ MERN Stack Developer
 I'm a passionate developer building user-friendly web applications using the MERN stack (MongoDB, Express, React, and Node.js). This versatile combination allows me to handle both front-end and back-end development, ensuring seamless and scalable web experiences.
 
 * 🌍  I'm based in Rishikesh, Uttarakhand
-* 🖥️  See my portfolio at [Portfolio](http://akhilmaratha.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Portfolio](https://portfolio-xi-nine-52.vercel.app/)
 * ✉️  You can contact me at [akhilmaratha58@gmail.com](mailto:akhilmaratha58@gmail.com)
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on intersting projects
